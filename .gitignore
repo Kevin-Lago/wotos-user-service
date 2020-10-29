@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### Secret Files ###
+/src/main/resources/
