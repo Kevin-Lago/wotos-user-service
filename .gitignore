@@ -32,3 +32,5 @@ build/
 
 ### Secret Files ###
 resources/
+.application
+.bootstrap
